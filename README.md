@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Email Sender<br>🌱 I’m currently learning Python<br>📫 How to reach me emailbuatus2@gmail.com
+🔭 I’m currently working on Python Email Sender<br>🌱 I’m currently learning Python<br>📫 Reach me <a href="https://t.me/marleyybob123">Here</a>
 
 
 ## 🌐 Socials:
