@@ -18,6 +18,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khadafigans&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=khadafigans&style=flat-square&color=blue" style="height:28px" alt=""/>
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=khadafigans&icon=0&color=0)](https://visitcount.itsvg.in)
 
