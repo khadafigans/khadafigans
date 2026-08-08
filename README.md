@@ -41,11 +41,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khadafigans&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khadafigans&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadafigans&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000)
-
-### 🔝 Top Contributed Repo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khadafigans&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
 
 ---
